@@ -12,4 +12,4 @@ def get_completion(prompt, model="gemini-2.5-flash"):
         model=model,
         contents=prompt
     )
-    return response.text
+    return response.text 
