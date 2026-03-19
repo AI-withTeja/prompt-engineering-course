@@ -10,14 +10,15 @@ This project contains simple beginner-friendly examples for learning core prompt
 - Multi-shot prompting
 - Chain-of-Thought prompting
 - Zero-shot Chain-of-Thought prompting
+- Few-shot-Chain-of-Thought prompting
 
 ## Project Structure
 
 - `examples/` → runnable Python examples
 - `prompts/` → concept notes for each prompting technique
+- `prompt_tasks/` → implemented code of Assignment for Students 
 - `assignments/` → practice tasks for learners
 - `helper.py` → reusable helper function for API calls
-- `.env.example` → sample environment variable format
 
 ## Setup
 
