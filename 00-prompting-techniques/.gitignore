@@ -4,3 +4,4 @@ __pycache__/
 *.pyc
 teacher_notes.md
 .DS_Store
+settings.json

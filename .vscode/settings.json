@@ -1,0 +1,9 @@
+{
+  "python.defaultInterpreterPath": "/Users/teja_work/Cohort-Projects/prompt-engineering-course/00-prompting-techniques/.venv/bin/python3",
+  "python.analysis.autoSearchPaths": true,
+  "python.analysis.extraPaths": [
+    "/Users/teja_work/Cohort-Projects/prompt-engineering-course/00-prompting-techniques",
+    "/Users/teja_work/Cohort-Projects/prompt-engineering-course/00-prompting-techniques/.venv/lib/python3.14/site-packages"
+  ],
+  "python.terminal.activateEnvironment": true
+}
