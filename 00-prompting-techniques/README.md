@@ -30,3 +30,7 @@ Example:
 
 ```env
 GEMINI_API_KEY=your_api_key_here
+
+## Contribution by Jyothsna
+
+This repository was forked and modified as part of a learning assignment on GitHub workflows and SSH setup.
